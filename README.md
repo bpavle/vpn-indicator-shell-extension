@@ -1,5 +1,7 @@
 ## VPN Indicator Extension
 
+Forked from here: https://github.com/howdoicomputer/vpn-indicator-shell-extension.git
+
 ![](up.png)
 
 ![](down.png)
